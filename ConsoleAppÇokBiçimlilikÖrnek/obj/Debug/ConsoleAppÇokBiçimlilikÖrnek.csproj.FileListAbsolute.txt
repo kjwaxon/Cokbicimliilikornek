@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokBiçimlilikÖrnek\bin\Debug\ConsoleAppÇokBiçimlilikÖrnek.exe.config
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokBiçimlilikÖrnek\bin\Debug\ConsoleAppÇokBiçimlilikÖrnek.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokBiçimlilikÖrnek\bin\Debug\ConsoleAppÇokBiçimlilikÖrnek.pdb
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokBiçimlilikÖrnek\obj\Debug\ConsoleAppÇokBiçimlilikÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokBiçimlilikÖrnek\obj\Debug\ConsoleAppÇokBiçimlilikÖrnek.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokBiçimlilikÖrnek\obj\Debug\ConsoleAppÇokBiçimlilikÖrnek.pdb
